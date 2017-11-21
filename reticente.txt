@@ -1,0 +1,5 @@
+apresentação 6a feira 
+
+- diagrama casos de uso
+- diagrama de sequencia
+- diagrama de classes
